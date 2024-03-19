@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\filmArsivim\filmArsivim\bin\Debug\filmArsivim.exe.config
+C:\Users\User\source\repos\filmArsivim\filmArsivim\bin\Debug\filmArsivim.exe
+C:\Users\User\source\repos\filmArsivim\filmArsivim\bin\Debug\filmArsivim.pdb
+C:\Users\User\source\repos\filmArsivim\filmArsivim\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.Properties.Resources.resources
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.csproj.GenerateResource.cache
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.csproj.CopyComplete
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.exe
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.pdb
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.FormElestiriler.resources
+C:\Users\User\source\repos\filmArsivim\filmArsivim\obj\Debug\filmArsivim.FormFilmler.resources
